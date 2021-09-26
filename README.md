@@ -21,3 +21,12 @@ mvn test
 # Opening Swagger
 
 After running the project, swagger link is: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+
+# Endpoints
+coordinate-clue : Calculates coordinates by using email path parameter.
+
+find : Always rescue kitties by using email path parameter.
+
+guess-location : You can guess woman location with email and coordinate info.
+
+directions : Gets woman directions by using email path parameter.
