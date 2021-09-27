@@ -11,11 +11,11 @@ For building and running the application you need:
 # Running the application locally
 
 ```shell
-mvn spring-boot:run
+'mvn spring-boot:run'  or './mvnw spring-boot:run'
 ```
 For running the tests
 ```shell
-mvn test
+'mvn test' or './mvnw test'
 ```
 
 # Opening Swagger
